@@ -1,4 +1,2 @@
 
-	imail = n26021-png
-    print("Hello,World!")
-`
+print("Hello,World!")
